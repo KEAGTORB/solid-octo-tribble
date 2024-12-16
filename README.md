@@ -24,14 +24,5 @@ pip install -r requirments.txt
 python main.py
 ```
 
-5. if there is any error  
-
-```
-sudo apt python3
-```
-and
-```
-sudo apt install python3-pip
-```
 
 
