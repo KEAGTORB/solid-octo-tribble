@@ -6,12 +6,12 @@
 
 1. You need to clone this repository
 ```
-git clone https://github.com/keagtorb/soctrile
+git clone https://github.com/saltX5/ytdown
 ```
 
 2. After you clone the repo you will have to navigate to the folder
 ```
-cd soctrile
+cd ytdown
 ```
 
 3. Then you will have to install requirments
@@ -34,4 +34,4 @@ and
 sudo apt install python3-pip
 ```
 
- **[connect me](https://t.me/keagtorb79)**
+
