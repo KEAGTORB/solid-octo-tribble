@@ -1,2 +1,5 @@
-pytube
-playlist
+yt-dlp
+instaloader
+requests
+tweepy
+facebook-sdk
