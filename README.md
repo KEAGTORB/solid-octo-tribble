@@ -74,3 +74,10 @@ DownStream is a versatile multi-platform downloader tool that allows you to down
 
 - Python 3.x
 - ffmpeg (for video/audio merging)
+
+## Supported Platforms
+
+- Instagram
+- Facebook
+- Twitter
+- Youtube
